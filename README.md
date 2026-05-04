@@ -41,10 +41,7 @@ http://<Your-Laptop-IP>:8080
 [![CasaOS Dashboard](images/Casa-Dashboard.png)](images/Casa-Dashboard.png)
 
 ### View CasaOS Appstore
-<video width="500" height="300" controls>
-  <source src="images/Casaos-Appstore.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/albiijohn/Create-Your-Own-Home-Server-Using-CasaOS/raw/main/images/Casaos-Appstore.mp4" width="500" controls></video>
 
 ---
 
