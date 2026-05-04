@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/35c68a46-f5b1-4fa4-8379-b89d7a0636f6
+
 # Create Your Own Home Server Using CasaOS
 
 ![CasaOS Banner](images/casaos_banner_twilight_blue_800x300.png)
@@ -41,7 +45,12 @@ http://<Your-Laptop-IP>:8080
 [![CasaOS Dashboard](images/Casa-Dashboard.png)](images/Casa-Dashboard.png)
 
 ### View CasaOS Appstore
-[Watch the CasaOS Appstore Demo](images/Casaos-Appstore.mp4)
+[Watch the CasaOS Appstore Demo](https://github.com/user-attachments/assets/24746c73-6986-4a80-9e49-4a0419bef0b6)
+
+
+
+
+
 
 ---
 
