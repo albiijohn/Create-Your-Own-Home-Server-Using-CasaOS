@@ -41,7 +41,7 @@ http://<Your-Laptop-IP>:8080
 [![CasaOS Dashboard](images/Casa-Dashboard.png)](images/Casa-Dashboard.png)
 
 ### View CasaOS Appstore
-<video src="https://github.com/albiijohn/Create-Your-Own-Home-Server-Using-CasaOS/raw/main/images/Casaos-Appstore.mp4" width="500" controls></video>
+<video src="images/Casaos-Appstore.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ---
 
