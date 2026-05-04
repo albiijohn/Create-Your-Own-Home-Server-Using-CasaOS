@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/35c68a46-f5b1-4fa4-8379-b89d7a0636f6
 
 # Create Your Own Home Server Using CasaOS
 
